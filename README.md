@@ -6,6 +6,10 @@
 
 The project focuses on analyzing traffic crashes around Cincinnati using open-source data from the City of Cincinnati website. The dataset contained detailed records of traffic crashes with 3833796 observations and 28 variables. After conducting data cleaning in R, a Tableau dashboard was developed to show key metrics and visualize how different factors contribute to fatal crashes.
 
+## Data Source
+
+https://data.cincinnati-oh.gov/safety/Traffic-Crash-Reports-CPD-/rvmt-pkmq/about_data
+
 ## Tools and Packages used
 - R: tidyverse (dplyr, ggplot2)
 - Tableau: Visualization and dashboard creation.
@@ -19,6 +23,8 @@ The project focuses on analyzing traffic crashes around Cincinnati using open-so
 5)	Enhance nighttime road safety through increased patrolling and reflective lane markings.
 
 ## Author
+
 Shams Sadhin
 mail: sadhinss@mail.uc.edu
 Linkedin: https://www.linkedin.com/in/shams-sadhin/
+Tableau: https://public.tableau.com/app/profile/shams.sadhin/vizzes
