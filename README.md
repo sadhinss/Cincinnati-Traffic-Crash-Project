@@ -24,7 +24,7 @@ https://data.cincinnati-oh.gov/safety/Traffic-Crash-Reports-CPD-/rvmt-pkmq/about
 
 ## Author
 
-Shams Sadhin
-mail: sadhinss@mail.uc.edu
-Linkedin: https://www.linkedin.com/in/shams-sadhin/
-Tableau: https://public.tableau.com/app/profile/shams.sadhin/vizzes
+**Shams Sadhin**  
+Mail: [sadhinss@mail.uc.edu](mailto:sadhinss@mail.uc.edu)  
+LinkedIn: [https://www.linkedin.com/in/shams-sadhin/](https://www.linkedin.com/in/shams-sadhin/)  
+Tableau: [https://public.tableau.com/app/profile/shams.sadhin/vizzes](https://public.tableau.com/app/profile/shams.sadhin/vizzes)
