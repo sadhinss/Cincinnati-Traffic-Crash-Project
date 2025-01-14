@@ -1,6 +1,6 @@
 # Cincinnati-Traffic-Crash-Project
 
-<a href="(https://public.tableau.com/views/CincinnatiTrafficCrashDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Click here for tableau dashboard</a>
+<a href="[https://public.tableau.com/views/CincinnatiTrafficCrashDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]">Click here for tableau dashboard</a>
 
 ## Project Overview
 
