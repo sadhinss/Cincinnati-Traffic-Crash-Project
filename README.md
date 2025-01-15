@@ -8,7 +8,8 @@ The project focuses on analyzing traffic crashes around Cincinnati using open-so
 
 ## Data Source
 
-https://data.cincinnati-oh.gov/safety/Traffic-Crash-Reports-CPD-/rvmt-pkmq/about_data
+[Traffic Crash Reports - CPD](https://data.cincinnati-oh.gov/safety/Traffic-Crash-Reports-CPD-/rvmt-pkmq/about_data)
+
 
 ## Tools and Packages used
 - R: tidyverse (dplyr, ggplot2)
